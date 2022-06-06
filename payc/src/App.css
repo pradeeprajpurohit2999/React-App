@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+hr {
+    position: absolute;
+    border: none;
+    border-top: 1px dotted rgb(0, 0, 0);
+    color: #fff;
+    background-color: #fff;
+    height: 1px;
+    width: 50%;
+    overflow: hidden;
+    z-index: 999;
+}
